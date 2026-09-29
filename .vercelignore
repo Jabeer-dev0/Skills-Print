@@ -1,7 +1,6 @@
-backend/
-sample_documents/
-documentation/
-reports/
+/sample_documents/
+/documentation/
+/reports/
 node_modules/
 dist/
 .git/
